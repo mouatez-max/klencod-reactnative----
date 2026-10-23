@@ -1,0 +1,5 @@
+{
+  "name": "App",
+  "displayName": "القرآن الكريم",
+  "android": {"packageName": "myapp.com"}
+}
